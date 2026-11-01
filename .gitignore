@@ -1,0 +1,23 @@
+
+# Compiled executable
+lexer.exe
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Generated reports
+output/*.txt
+
+# Debug and temporary files
+*.log
+*.tmp
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
